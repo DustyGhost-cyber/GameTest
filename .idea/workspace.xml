@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="614ae2f0-4d77-4462-b9b8-44d2e8364795" name="Changes" comment="readme update">
+      <change beforePath="$PROJECT_DIR$/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Game.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="4" />
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "DustyGhost-cyber"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/DustyGhost-cyber/GameTest.git",
+    "accountId": "891b7524-a6a1-4f77-a17f-1e5e9512dd5e"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0001626251210132" />
+      <entry key="S2" value="1.239241431435142" />
+      <entry key="S5" value="2.0848716408169725" />
+      <entry key="S10" value="2.865890969934763" />
+      <entry key="S30" value="4.717356311633683" />
+      <entry key="S60" value="6.581654982208854" />
+      <entry key="M2" value="8.888796725187298" />
+      <entry key="M5" value="13.072087285922828" />
+      <entry key="M10" value="16.7357456131346" />
+      <entry key="M15" value="18.604450305835567" />
+      <entry key="M30" value="20.972551119066285" />
+      <entry key="H1" value="22.432131662725087" />
+      <entry key="H2" value="26.371250657531558" />
+      <entry key="H4" value="52.92595026778468" />
+      <entry key="D1" value="213.51399803275714" />
+      <entry key="W1" value="285.55817243249135" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="2.54E-321" />
+      <entry key="S2" value="7.099294617896468E-81" />
+      <entry key="S5" value="8.720773318641582E-33" />
+      <entry key="S10" value="9.459791819553981E-17" />
+      <entry key="S30" value="6.142334390540853E-6" />
+      <entry key="S60" value="0.0042032707626225895" />
+      <entry key="M2" value="0.12390878040728952" />
+      <entry key="M5" value="0.9858360469682519" />
+      <entry key="M10" value="1.9823129852101469" />
+      <entry key="M15" value="2.5040003010621557" />
+      <entry key="M30" value="3.1642018164030343" />
+      <entry key="H1" value="3.560009302444199" />
+      <entry key="H2" value="4.018030575505718" />
+      <entry key="H4" value="6.483923566304127" />
+      <entry key="D1" value="23.309185300132047" />
+      <entry key="W1" value="31.361762001112243" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="5.796030688962327E-13" />
+      <entry key="MS500" value="0.0036408119247969043" />
+      <entry key="S2" value="0.44659739096961015" />
+      <entry key="S5" value="1.5865890742206739" />
+      <entry key="S10" value="2.560853297930953" />
+      <entry key="S30" value="4.579857048427962" />
+      <entry key="S60" value="6.499594971254537" />
+      <entry key="M2" value="8.95798620870581" />
+      <entry key="M5" value="14.025894918781251" />
+      <entry key="M10" value="18.697273000158564" />
+      <entry key="M15" value="21.092960008193067" />
+      <entry key="M30" value="24.127973880488835" />
+      <entry key="H1" value="25.987436181248597" />
+      <entry key="H2" value="30.38659199527189" />
+      <entry key="H4" value="59.4074324009274" />
+      <entry key="D1" value="236.8216347754273" />
+      <entry key="W1" value="316.91963866390324" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3E6MANLFYh85kGcpQoBLxh51xTh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/home/hitman/Documents/projects/Game-Test",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Game-Test" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="614ae2f0-4d77-4462-b9b8-44d2e8364795" name="Changes" comment="" />
+      <created>1779494421205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779494421205</updated>
+      <workItem from="1779494422266" duration="2535000" />
+      <workItem from="1779497148686" duration="21610000" />
+    </task>
+    <task id="LOCAL-00001" summary="readme update">
+      <option name="closed" value="true" />
+      <created>1779517928343</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779517928343</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="readme update" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme update" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Game_Test$main.coverage" NAME="main Coverage Results" MODIFIED="1779558760562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
