@@ -32,12 +32,19 @@ def click_game():
     old_color = (255, 255, 255)
     click_sound = pygame.mixer.Sound("hitmarker.mp3")
     point = 0
+    combo = 0
 
+
+    def draw_word_midtop(text, size=16, color=(0, 0, 0)):
+        font = pygame.font.SysFont("Consolas", size)
+        text_surf = font.render(text, True, color)
+        text_rect = text_surf.get_rect(midtop = (screen.get_width() // 2, 10))
+        screen.blit(text_surf, text_rect)
 
     def draw_word(text, size=16, color=(0, 0, 0)):
         font = pygame.font.SysFont("Consolas", size)
         text_surf = font.render(text, True, color)
-        text_rect = text_surf.get_rect(midtop=(screen.get_width() // 2, 10))
+        text_rect = text_surf.get_rect()
         screen.blit(text_surf, text_rect)
 
     while running:
@@ -50,6 +57,7 @@ def click_game():
             elif event.type == pygame.MOUSEBUTTONDOWN and fade_state is None:
                 if ring_active and abs(ring_radius - radius) <= ring_hit_threshold:
                     point += 10
+                    combo += 1
                     # Freeze current state for fade-out
                     old_circle_x, old_circle_y = circle_x, circle_y
                     old_radius = radius
@@ -59,6 +67,7 @@ def click_game():
                     fade_state = "out"
                     fade_alpha = 255
                     click_sound.play()
+
 
         if fade_state == "out":
             fade_alpha -= fade_speed * dt
@@ -84,10 +93,12 @@ def click_game():
             if ring_radius <= 0:
                 ring_radius = radius + 150
                 point = max(0, point - 1)
+                combo = 0
 
         screen.fill('black')
 
-        draw_word(f'POINTS: {point}', size=16, color='white')
+        draw_word_midtop(f'POINTS: {point}', size=16, color='white')
+        draw_word(f'Combo: {combo}', size=16, color='white')
         if fade_state is None:
             pygame.draw.circle(screen, color_circle, (circle_x, circle_y), radius)
             if ring_active:
